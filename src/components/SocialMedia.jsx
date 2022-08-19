@@ -1,0 +1,52 @@
+import React from "react";
+import {
+  BsTwitter,
+  BsLinkedin,
+  BsGithub,
+  BsFillFilePdfFill,
+} from "react-icons/bs";
+import {} from "react-icons/fa";
+import { images } from "../constants";
+
+const SocialMedia = () => (
+  <div className="app__social">
+    <div>
+      <a
+        href="https://drive.google.com/file/d/1V0px693imZtnImBKFP96VNdmZUQes9ht/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <BsFillFilePdfFill />
+      </a>
+    </div>
+    <div>
+      <a
+        href="https://twitter.com/PulkitMalhotraa"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <BsTwitter />
+      </a>
+    </div>
+    <div>
+      <a
+        href="https://www.linkedin.com/in/thepulkitmalhotra/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <BsLinkedin />
+      </a>
+    </div>
+    <div>
+      <a
+        href="https://github.com/PulkitMalhotra161001"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <BsGithub />
+      </a>
+    </div>
+  </div>
+);
+
+export default SocialMedia;
