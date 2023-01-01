@@ -1,7 +1,14 @@
 import React from "react";
 
-import { About, Footer, Header, Skills, Testimonial, Work,Platforms } from "./container";
-import { Navbar, SocialMedia } from "./components";
+import {
+  About,
+  Header,
+  Skills,
+  Testimonial,
+  Work,
+  Platforms,
+} from "./container";
+import { Navbar } from "./components";
 import "./App.scss";
 
 const App = () => {
@@ -10,11 +17,11 @@ const App = () => {
       <Navbar />
       <Header />
       <About />
-      <Platforms/>
+      <Platforms />
       <Work />
       <Skills />
       <Testimonial />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };

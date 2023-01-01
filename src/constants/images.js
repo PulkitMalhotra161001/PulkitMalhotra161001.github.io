@@ -31,6 +31,7 @@ import Pulkit from "../assets/Pulkit.png";
 import leetcode from "../assets/leetcode.png";
 import geeksforgeeks from "../assets/geeksforgeeks.png";
 import codechef from "../assets/codechef.png";
+import codeforces from "../assets/codeforces.png";
 import interviewbit from "../assets/interviewbit.png";
 import hackerrank from "../assets/hackerrank.png";
 import whatsapp from "../assets/whatsapp.png";
@@ -83,5 +84,6 @@ export default {
   geeksforgeeks,
   hackerrank,
   codechef,
+  codeforces,
   whatsapp,
 };

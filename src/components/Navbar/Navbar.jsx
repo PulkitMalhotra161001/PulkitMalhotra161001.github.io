@@ -23,7 +23,6 @@ const Navbar = () => {
           "work",
           "skills",
           "testimonial",
-          "contact",
         ].map((item) => (
           <li className="app__flex p-text" key={`link-${item}`}>
             <div />
@@ -49,7 +48,6 @@ const Navbar = () => {
                 "work",
                 "skills",
                 "testimonial",
-                "contact",
               ].map((item) => (
                 <li key={item}>
                   <a href={`#${item}`} onClick={() => setToggle(false)}>

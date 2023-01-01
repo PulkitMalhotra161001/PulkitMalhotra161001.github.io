@@ -1,22 +1,13 @@
 import React from "react";
-import {
-  BsTwitter,
-  BsLinkedin,
-  BsGithub,
-  BsFillFilePdfFill,
-} from "react-icons/bs";
+import { BsTwitter, BsLinkedin, BsGithub, BsMailbox2 } from "react-icons/bs";
 import {} from "react-icons/fa";
 import { images } from "../constants";
 
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <a
-        href="https://drive.google.com/file/d/1V0px693imZtnImBKFP96VNdmZUQes9ht/view?usp=sharing"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <BsFillFilePdfFill />
+      <a href="mailto:pulkit161001@gmail.com" target="_blank" rel="noreferrer">
+        <BsMailbox2 />
       </a>
     </div>
     <div>

@@ -12,7 +12,6 @@ const NavigationDots = ({ active }) => (
       "work",
       "skills",
       "testimonial",
-      "contact",
     ].map((item, index) => (
       <a
         href={`#${item}`}

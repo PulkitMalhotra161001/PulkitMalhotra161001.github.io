@@ -31,6 +31,11 @@ const platforms = [
     imgUrl: images.codechef,
     link: "https://www.codechef.com/users/pulkit161001",
   },
+  {
+    title: "CodeForces",
+    imgUrl: images.codeforces,
+    link: "https://codeforces.com/profile/pulkitmalhotra1610",
+  },
 ];
 
 const Platforms = () => {
