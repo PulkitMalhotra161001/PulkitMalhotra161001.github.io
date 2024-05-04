@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PulkitMalhotra161001.github.io/static/css/main.80fac83e.css",
-    "main.js": "/PulkitMalhotra161001.github.io/static/js/main.e42bda76.js",
+    "main.css": "/PulkitMalhotra161001.github.io/static/css/main.5f09a44b.css",
+    "main.js": "/PulkitMalhotra161001.github.io/static/js/main.c031ec06.js",
     "static/media/about04.png": "/PulkitMalhotra161001.github.io/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/PulkitMalhotra161001.github.io/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/PulkitMalhotra161001.github.io/static/media/about01.080509de05322b7aafda.png",
     "static/media/bgIMG.png": "/PulkitMalhotra161001.github.io/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/PulkitMalhotra161001.github.io/static/media/bgWhite.79658cadae50b3b16ee5.png",
-    "static/media/profile.png": "/PulkitMalhotra161001.github.io/static/media/profile.430712f7713eec3785cd.png",
     "static/media/about03.png": "/PulkitMalhotra161001.github.io/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/profile.png": "/PulkitMalhotra161001.github.io/static/media/profile.67ff48d6735a525e6391.png",
     "static/media/spotify.png": "/PulkitMalhotra161001.github.io/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/nb.png": "/PulkitMalhotra161001.github.io/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/whatsapp.png": "/PulkitMalhotra161001.github.io/static/media/whatsapp.e6bd34668805707083ce.png",
@@ -35,11 +35,11 @@
     "static/media/skype.png": "/PulkitMalhotra161001.github.io/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/PulkitMalhotra161001.github.io/index.html",
     "static/media/circle.svg": "/PulkitMalhotra161001.github.io/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.80fac83e.css.map": "/PulkitMalhotra161001.github.io/static/css/main.80fac83e.css.map",
-    "main.e42bda76.js.map": "/PulkitMalhotra161001.github.io/static/js/main.e42bda76.js.map"
+    "main.5f09a44b.css.map": "/PulkitMalhotra161001.github.io/static/css/main.5f09a44b.css.map",
+    "main.c031ec06.js.map": "/PulkitMalhotra161001.github.io/static/js/main.c031ec06.js.map"
   },
   "entrypoints": [
-    "static/css/main.80fac83e.css",
-    "static/js/main.e42bda76.js"
+    "static/css/main.5f09a44b.css",
+    "static/js/main.c031ec06.js"
   ]
 }
